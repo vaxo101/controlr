@@ -1,2 +1,2 @@
-# controlr
-ControlR is an opensource remote monitoring application 
+# ControlR
+ControlR is an opensource remote Monitoring / Support application
